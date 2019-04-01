@@ -1,0 +1,3 @@
+rootProject.name = 'reactnew'
+
+include ':app'
